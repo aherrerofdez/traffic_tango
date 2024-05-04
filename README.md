@@ -23,9 +23,11 @@ This is a simple car racing game built using Python and Tkinter library for the 
     `cd traffic_tango`
 
 3. Install dependencies
+
     `pip install -r requirements.txt`
 
-4. Run the game
+5. Run the game
+   
     `python frontend.py`
 
 ## How to Play
