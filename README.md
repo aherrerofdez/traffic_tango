@@ -39,4 +39,5 @@ This is a simple car racing game built using Python and Tkinter library for the 
 - After the game ends, choose whether to play again or exit.
 
 ## Credits
+
 This project was created by Ana Herrero. It is inspired by the classic arcade racing games and serves as a fun exercise in Python programming and game development.
